@@ -9,15 +9,11 @@
 <a href="https://v.douyin.com/ifrThpaa/ 7@5.com :2pm">
   <img align="left" alt="Judy's Tiktok" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/tiktok.svg" />
 </a>
-<br>
-<br>
 <img src="https://komarev.com/ghpvc/?username=Soryuasukka&color=blueviolet">
-<br />
-<br />
+
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JycGxsMXRnbXg3aGU4OG84MjQzMGd2ZGU4azNvODNlYTl2czZkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nvj5hBFzqKTdH1dsaj/giphy.gif" />
 
 普通 **ECNU** 教育技术&计科双学位 大三在读 工科女
-
-  <img align="right" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3JycGxsMXRnbXg3aGU4OG84MjQzMGd2ZGU4azNvODNlYTl2czZkNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nvj5hBFzqKTdH1dsaj/giphy.gif" />
 
 **About Me**👇	
 
