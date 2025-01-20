@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 :grinning:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Judy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soryuasukka)](https://github.com/Soryuasukka/github-readme-stats)
